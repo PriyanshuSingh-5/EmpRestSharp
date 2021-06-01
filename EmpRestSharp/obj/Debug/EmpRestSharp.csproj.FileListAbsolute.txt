@@ -1,0 +1,7 @@
+C:\Users\K.R.DHASHNIGA\source\repos\EmpRestSharp\EmpRestSharp\bin\Debug\EmpRestSharp.exe.config
+C:\Users\K.R.DHASHNIGA\source\repos\EmpRestSharp\EmpRestSharp\bin\Debug\EmpRestSharp.exe
+C:\Users\K.R.DHASHNIGA\source\repos\EmpRestSharp\EmpRestSharp\bin\Debug\EmpRestSharp.pdb
+C:\Users\K.R.DHASHNIGA\source\repos\EmpRestSharp\EmpRestSharp\obj\Debug\EmpRestSharp.csprojAssemblyReference.cache
+C:\Users\K.R.DHASHNIGA\source\repos\EmpRestSharp\EmpRestSharp\obj\Debug\EmpRestSharp.csproj.CoreCompileInputs.cache
+C:\Users\K.R.DHASHNIGA\source\repos\EmpRestSharp\EmpRestSharp\obj\Debug\EmpRestSharp.exe
+C:\Users\K.R.DHASHNIGA\source\repos\EmpRestSharp\EmpRestSharp\obj\Debug\EmpRestSharp.pdb
