@@ -112,7 +112,7 @@ namespace EmpRestSharpMSTest
             public void OnCallingPutAPI_ReturnEmployeeObject()
             {
                 //Arrange
-                //Initialize the request for PUT to add new employee
+                //Initialize the request for Post to add new employee
                 RestRequest request = new RestRequest("Employees", Method.POST);
                 JsonObject jsonObj = new JsonObject();
                 jsonObj.Add("name", "Radha");
@@ -130,7 +130,23 @@ namespace EmpRestSharpMSTest
                 Assert.AreEqual("65000", employee.Salary);
                 Console.WriteLine(response.Content);
             }
+        /// UC5  Ability to delete the employee details with given id
         
+        [TestMethod]
+        public void OnCallingDeleteAPI_ReturnSuccessStatus()
+        {
+            //Arrange
+            //Initialize the request for PUT to add new employee
+            RestRequest request = new RestRequest("/Employees/10", Method.DELETE);
+
+            //Act
+            IRestResponse response = client.Execute(request);
+
+            //Assert
+            Assert.AreEqual(HttpStatusCode.OK, response.StatusCode);
+            Console.WriteLine(response.Content);
+        }
+
     }
 }
 
