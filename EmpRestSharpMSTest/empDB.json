@@ -31,39 +31,24 @@
       "id": "6"
     },
     {
-      "name": "Raanu",
-      "salary": "85536",
-      "id": "1k9b8VB"
-    },
-    {
-      "name": "Raanu",
-      "salary": "85536",
-      "id": "E1MceaE"
-    },
-    {
-      "name": "Raanu",
-      "salary": "85536",
-      "id": "VFmLk-m"
-    },
-    {
-      "name": "Raanu",
-      "salary": "85536",
-      "id": "eRTb6tY"
-    },
-    {
-      "name": "Raanu",
-      "salary": "85536",
-      "id": "Hc0DNw-"
-    },
-    {
-      "name": "Raanu",
-      "salary": "85536",
-      "id": "q9OKV7r"
-    },
-    {
-      "name": "Raanu",
-      "salary": "65000",
-      "id": "O0naJaw"
-    }
+    "name": "Ritik",
+    "salary": "50000",
+    "id": "6"
+  },
+  {
+    "name": "Raanu",
+    "salary": "85536",
+    "id": "7"
+  },
+  {
+    "name": "sona",
+    "salary": "77884456",
+    "id": "8"
+  },
+  {
+    "name": "Christiano Davidson",
+    "salary": "898800567",
+    "id": "9"
+  }
   ]
 }
